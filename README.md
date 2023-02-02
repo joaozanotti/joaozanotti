@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o João Vitor Zanotti!
 - 🌱 Tenho 18 anos.
 - 💻 Sou programador em HTML5 e CSS3.
-- 📚 Atualmente aprendendo Bootstrap e JavaScript.
+- 📚 Atualmente aprendendo JavaScript e Python.
 - 🎓 Me formei Técnico em Informática para Internet pelo IFES ST.
 - 💬 Discord: Jão#2128
 - 📷 Instagram: @joaozanotti_
