@@ -6,7 +6,7 @@
 - 💻 Cursando Sistemas para Internet no IFES ST.
 - 💬 Discord: joaozanotti
 - 📷 Instagram: @joaozanotti_
-- ✉️ E-mail: joaovzanotti@gmail.com
+- 📬 E-mail: joaovzanotti<i></i>@gmail.com
 
 <!---
 joaozanotti/joaozanotti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
