@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou o João Vitor Zanotti!
-- 🌱 Tenho 18 anos.
+- 🌱 Tenho 19 anos.
 - ⚙️ Sou desenvolvedor em HTML5 e CSS3.
 - 📚 Atualmente me especializando em Back-End.
 - 🎓 Me formei Técnico em Informática para Internet pelo IFES ST.
