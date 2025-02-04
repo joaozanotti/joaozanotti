@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou o João Vitor Zanotti!
-- 🌱 Tenho 19 anos.
+- 🌱 Tenho 20 anos.
 - ⚙️ Sou desenvolvedor em HTML, CSS, JavaScript, TypeScript, PHP e SQL.
 - 🛠️ Tenho conhecimento em ferramentas como VSCode, Trello, Figma, Git e GitHub.
 - 📂 Uso frameworks como Bootstrap e Node com React e Express.
