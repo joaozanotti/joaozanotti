@@ -6,6 +6,7 @@
 - 📚 Atualmente me especializando em Python, Ciência de Dados e Inteligência Artificial.
 - 💻 Me tornei Técnico em Informática para Internet no IFES ST.
 - 🎓 Me formei Tecnólogo em Sistemas para Internet pelo IFES ST.
+- 🤖 Cursando MBA em Ciências de Dados e Inteligência Artificial na Uninter.
 - 📩 E-mail: joaovzanotti<i></i>@gmail.com
 
 <!---
